@@ -1,0 +1,1 @@
+"""CollabSpace backend application package."""
